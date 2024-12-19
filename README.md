@@ -109,9 +109,3 @@ This analysis provides actionable insights into investment behavior and performa
 
 ---
 
-### Repository
-Explore the project and code in detail here: [GitHub Repository Link](#)
-
----
-
-Let me know if you’d like further tweaks!
