@@ -89,6 +89,20 @@ IF('investment_data'[Working_professional] = "True", "👍", "👎")
 - **Dynamic Filters**: Interactive visuals for exploring investment data by age, gender, income, and duration.
 
 ---
+### Insights and Analysis
+-**Majority of the monthly Investments are done in Mutual Funds and Stocks, the reason for this is for their personal saving and wealth generation. Both stocks and Mutual Funds offer higher returns during these 10 years after which it starts declining the forecast shows it might increase in 20th year.**
+
+-**Around 66 percent of high income people invested in real estate which has given them linear returns. The dominant reason for investement in real estate is building their own homes/Buying a new car followed by tax saving and wealth generation**
+
+-**On the other hand in crypto currency the longer the duration the more less is the ROI. Only High income people invested in crypto currency the reason for their investment is child education/marriage**
+
+-**Bank-FD,RD has given consistent profits with people from all income roup investing. The reason for this investing includes personal savings,child education/marriage, ..etc**
+
+-**Primary reasons for investment are personal savings and wealth generation**
+
+-**Combination of mutual funds and Stocks has provided the maximum investment value of around 10 Million within 10 years**
+
+-**People are motivated to invest due to motivation from friends and family members**
 
 ## Conclusion
 This analysis provides actionable insights into investment behavior and performance, helping stakeholders make informed decisions.
