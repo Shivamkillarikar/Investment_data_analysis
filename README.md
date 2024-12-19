@@ -9,9 +9,9 @@ Age: Age of the person who is investing
 Duration to Save: Until how much time you want to invest
 Annual Income:Yearly Income
 Gender:Male or Female
-## High_or_low: It's a DAX measure to categorize annual income> 2,50,000 as "👆High" and income<2,50,000 as "👇Low"
+# High_or_low: It's a DAX measure to categorize annual income> 2,50,000 as "👆High" and income<2,50,000 as "👇Low"
 Investment_per_month: Monthly investment amount.
-## Investment_Value= DAX measure to calculate the investment value based on monthly investment and duration to save
+# Investment_Value= DAX measure to calculate the investment value based on monthly investment and duration to save
 # Formula
 Investment_Value = 
 SUMX(
@@ -20,7 +20,7 @@ SUMX(
     (investment_data[Investment_per_month] * 12 * 0.15 * investment_data[Duration_to_save(in_Years) ])
 )
 Mode of Investment: Various methods of investment like crypto currency,fd,mutual funds,stocks..etc
-## Return Indicator: A DAX measure to categorize Return on investment as high "🟢↑" or low "🔴↓". ROI of above 20 percent is considered high else low
+# Return Indicator: A DAX measure to categorize Return on investment as high "🟢↑" or low "🔴↓". ROI of above 20 percent is considered high else low
 # Formula
 Return_Indicator = 
 IF(
